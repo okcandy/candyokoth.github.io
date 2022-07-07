@@ -4612,7 +4612,7 @@ input, select, textarea {
 			border: 0;
 			color: #909498;
 			cursor: pointer;
-			display: block;
+			display: table-cell;
 			height: 3.25rem;
 			line-height: 3.25rem;
 			padding-right: 1.25rem;
